@@ -1,0 +1,36 @@
+_repo: Tervanpolttajat-b-Ynna-muita-kertomuksia-pohjan-perilta_73400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pulkkinen, Salomo
+    alias: Pulkkinen, Matti Salomo
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '57032'
+    url: http://www.gutenberg.org/2009/agents/57032
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Salomo_Pulkkinen
+    - https://fi.wikipedia.org/wiki/Salomo_Pulkkinen
+description: ''
+gutenberg_issued: '2024-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73400'
+language: fi
+pgterms:marc905: 20240402003515pulkkinen
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Tervanpolttajat -- Pakeneva onni -- Kannan pahennus -- Suolle taloksi
+  -- Tervajoella -- Ruotipoika -- Markkinaturkki.
+title: 'Tervanpolttajat : $b Ynnä muita kertomuksia pohjan periltä'
+url: http://www.gutenberg.org/ebooks/73400
