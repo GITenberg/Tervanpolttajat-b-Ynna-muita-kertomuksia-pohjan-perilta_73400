@@ -1,5 +1,8 @@
 _repo: Tervanpolttajat-b-Ynna-muita-kertomuksia-pohjan-perilta_73400
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pulkkinen, Salomo
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Salomo_Pulkkinen
     - https://fi.wikipedia.org/wiki/Salomo_Pulkkinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73400#Tervanpolttajat-b-Ynna-muita-kertomuksia-pohjan-perilta
 gutenberg_issued: '2024-04-15'
 gutenberg_type: Text
 identifiers:
